@@ -24,6 +24,8 @@ int main() {
     }
     printf("]");
 
+    free(merged);
+
     return 0;
 }
 
